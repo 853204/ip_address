@@ -18,6 +18,7 @@
     "ioredis": "^5.3.2",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.1.0",
+    "nodemon": "^2.0.22",
     "redis": "^4.6.6",
     "winston": "^3.8.2",
     "winston-mongodb": "^5.1.1"
